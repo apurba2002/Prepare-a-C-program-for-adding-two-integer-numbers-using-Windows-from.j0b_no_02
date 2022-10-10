@@ -1,0 +1,12 @@
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add two number.csproj.AssemblyReference.cache
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add two number.csproj.SuggestedBindingRedirects.cache
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add_two_number.Form1.resources
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add_two_number.Properties.Resources.resources
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add two number.csproj.GenerateResource.cache
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add two number.csproj.CoreCompileInputs.cache
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\bin\Debug\add two number.exe.config
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\bin\Debug\add two number.exe
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\bin\Debug\add two number.pdb
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add two number.exe
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add two number.pdb
+E:\c# job report\Prepare a C# program for adding two integer numbers using Windows from.j0b_no_02\add two number\obj\Debug\add_two_number.msg.resources
